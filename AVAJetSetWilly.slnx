@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AVAJetSetWilly/AVAJetSetWilly.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AVAJetSetWilly.Tests/AVAJetSetWilly.Tests.csproj" />
+  </Folder>
+</Solution>
