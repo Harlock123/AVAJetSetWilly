@@ -9,8 +9,8 @@ using AVAJetSetWilly.Engine;
 namespace AVAJetSetWilly.Views;
 
 /// <summary>
-/// The screen: a fixed 1024×768 picture scaled to fit the window: the cavern, then its name, the air, the score
-/// and the miners left. Runs the engine from a 60 Hz timer.
+/// The screen: a fixed 1024×768 picture scaled to fit the window: the room, then its name, the items collected,
+/// the time, the score, a plan of the house and the lives left. Runs the engine from a 60 Hz timer.
 /// </summary>
 public sealed partial class GameCanvas : Control
 {
